@@ -13,9 +13,12 @@
 
 ## Backend Setup
 
-### Create and activate a virtual environment:
+### Create a virtual environment:
 
 python -m venv venv
+
+### Activate the virtual enviroment:
+
 source venv/bin/activate
 
 ### Install the required Python packages:
